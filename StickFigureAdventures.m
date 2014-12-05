@@ -1,4 +1,7 @@
-%Press Run 
+%This was the first big program that I ever wrote, back when I had just
+%started programming. 
+
+%It's actually a really fun little game
 
 
 
